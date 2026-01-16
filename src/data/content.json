@@ -1,0 +1,233 @@
+{
+  "hero": {
+    "name": "Venkata Rao Gonugunta",
+    "title": "AWS Java Developer",
+    "valueProp": "Skilled in building, deploying, and scaling cloud-native applications using Java, Spring Boot, and AWS services.",
+    "profileImage": "Assets/profile.png"
+  },
+  "about": {
+    "bioParas": [
+    "I am a cloud and backend engineer with 6+ years of experience building scalable, secure applications across finance and e-commerce domains. I specialize in delivering high-performance systems that handle large-scale transactions with reliability and low latency.",
+    "My expertise centers on Java, Spring Boot, microservices, and REST API development, with strong hands-on experience in AWS services such as EC2, S3, RDS, DynamoDB, and IAM. I have built event-driven architectures using Kafka and optimized backend performance for production systems.",
+    "I focus on automation and DevOps best practices, implementing CI/CD pipelines with Jenkins, Docker, and Kubernetes to improve deployment speed and stability. I collaborate effectively in Agile teams to deliver secure, cloud-native solutions with measurable business impact.",
+    "I am passionate about clean architecture, performance tuning, and continuous learning, ensuring systems remain scalable, maintainable, and future-ready. I consistently apply best practices in security, testing, and observability to deliver enterprise-grade solutions."
+  ],
+  "highlights": [
+    "Improved financial transaction processing efficiency by 30% by architecting and deploying cloud-native microservices on AWS.",
+    "Reduced unauthorized access incidents by 40% through secure authentication and authorization using Spring Security, JWT, and AWS IAM.",
+    "Cut deployment and release cycles by up to 50% by automating CI/CD pipelines with Jenkins, Docker, and Kubernetes.",
+    "Enhanced system performance and reliability by optimizing database access and persistence layers, reducing query latency and transaction failures by up to 30%."
+  ]
+  },
+  "skills": [
+    {
+    "name": "Java",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M8 21h8v-2H8v2zm4-18c-2.5 2.2-3 3.7-3 5 0 1.7 1.3 3 3 3s3-1.3 3-3c0-1.3-.5-2.8-3-5zm0 10c-2.2 0-4 1.8-4 4v1h8v-1c0-2.2-1.8-4-4-4z'/></svg>",
+    "note": "Core backend language for enterprise services"
+  },
+  {
+  "name": "JavaScript",
+  "proficiency": "Expert",
+  "icon": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><rect width='24' height='24' rx='4' fill='#F7DF1E'/><text x='6.2' y='16.7' font-size='10.8' font-family='Arial, Helvetica, sans-serif' font-weight='800' fill='#000'>JS</text></svg>",
+  "note": "Frontend + integration scripting for web apps"
+},
+  {
+    "name": "React",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 10.2a1.8 1.8 0 1 0 0 3.6 1.8 1.8 0 0 0 0-3.6zm8.3 1.8c0-.9-1.1-1.7-2.8-2.3.4-1.8.3-3.2-.4-3.6-.7-.4-2 .1-3.4 1.2-.9-.8-1.9-1.2-2.7-1.2s-1.8.4-2.7 1.2C6.9 6.2 5.6 5.7 4.9 6.1c-.7.4-.8 1.8-.4 3.6C2.8 10.3 1.7 11.1 1.7 12c0 .9 1.1 1.7 2.8 2.3-.4 1.8-.3 3.2.4 3.6.7.4 2-.1 3.4-1.2.9.8 1.9 1.2 2.7 1.2s1.8-.4 2.7-1.2c1.4 1.1 2.7 1.6 3.4 1.2.7-.4.8-1.8.4-3.6 1.7-.6 2.8-1.4 2.8-2.3zm-4.2-2c-1-.2-2.1-.3-3.1-.3-1.1 0-2.1.1-3.1.3.6-.9 1.4-1.6 2.1-2.2.7.6 1.5 1.3 2.1 2.2zm-6.6 5c1 .2 2 .3 3 .3s2-.1 3-.3c-.6.9-1.4 1.6-2 2.2-.7-.6-1.5-1.3-2-2.2z'/></svg>",
+    "note": "Building responsive UI components and dashboards"
+  },
+  {
+    "name": "Angular",
+    "proficiency": "Intermediate",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2 3 6l1.7 11.5L12 22l7.3-4.5L21 6 12 2zm3.2 14h-1.8l-.8-2H11l-.8 2H8.4l3.6-9h.6l3.6 9zM12 9.8l-.9 2.4h1.8L12 9.8z'/></svg>",
+    "note": "SPA development with structured components/modules"
+  },
+  {
+    "name": "HTML",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M4 2h16v20l-8 2-8-2V2zm3 5v2h2V7H7zm0 4v2h2v-2H7zm4-4v2h2V7h-2zm0 4v2h2v-2h-2zm4-4v2h2V7h-2zm0 4v2h2v-2h-2z'/></svg>",
+    "note": "Semantic markup for accessible web pages"
+  },
+  {
+    "name": "CSS",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M4 2h16l-1.5 18L12 22l-6.5-2L4 2zm12.2 6H8l.2 2h7.8l-.3 3.2L12 14l-3.7-.8-.2-1.6H6l.3 3.6L12 17l5.7-1.8.8-9.2z'/></svg>",
+    "note": "Responsive layouts and modern UI styling"
+  },
+  {
+    "name": "Spring Boot",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2c3 3 5 6 5 9a5 5 0 1 1-10 0c0-3 2-6 5-9zm-3.5 9.3c.3 2 2 3.7 3.5 3.7s3.2-1.7 3.5-3.7c-1 1-2.2 1.5-3.5 1.5s-2.5-.5-3.5-1.5z'/></svg>",
+    "note": "REST services, security, and production-ready APIs"
+  },
+  {
+    "name": "Microservices Architecture",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M7 7h4v4H7V7zm6 0h4v4h-4V7zM7 13h4v4H7v-4zm6 0h4v4h-4v-4zM4 4h16v16H4V4zm2 2v12h12V6H6z'/></svg>",
+    "note": "Designing distributed services with clean boundaries"
+  },
+  {
+    "name": "REST API Development",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M4 6h16v2H4V6zm0 5h10v2H4v-2zm0 5h16v2H4v-2zm13-5 3 3-3 3v-2h-3v-2h3v-2z'/></svg>",
+    "note": "API design, versioning, and integration patterns"
+  },
+  {
+    "name": "AWS",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 3 3 8v8l9 5 9-5V8l-9-5zm0 3 6 3.3V15L12 18l-6-3V9.3L12 6z'/></svg>",
+    "note": "Cloud deployment, security, and managed services"
+  },
+  {
+    "name": "Docker",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M4 13h16c0 4-3 7-7 7H9c-3 0-5-3-5-7zm2-6h3v3H6V7zm4 0h3v3h-3V7zm4 0h3v3h-3V7zm-4-4h3v3h-3V3z'/></svg>",
+    "note": "Containerizing apps for consistent environments"
+  },
+  {
+    "name": "Kubernetes",
+    "proficiency": "Intermediate",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2 4 6v12l8 4 8-4V6l-8-4zm0 4 4 2.3v7.4L12 18l-4-2.3V8.3L12 6zm0 2.2-2 1.1v2.3l2 1.1 2-1.1V9.3l-2-1.1z'/></svg>",
+    "note": "Orchestrating containers, scaling, and deployments"
+  },
+  {
+    "name": "Jenkins",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2a5 5 0 0 1 5 5c0 1.6-.7 3-1.8 4 1.7 1 2.8 2.8 2.8 4.9V20H6v-4.1c0-2.1 1.1-3.9 2.8-4.9A5 5 0 0 1 12 2zm0 2.2A2.8 2.8 0 1 0 12 9.8a2.8 2.8 0 0 0 0-5.6z'/></svg>",
+    "note": "CI pipelines for build, test, and deployment automation"
+  },
+  {
+    "name": "GitHub Actions",
+    "proficiency": "Intermediate",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2a10 10 0 0 0-3.2 19.5c.5.1.7-.2.7-.5v-1.7c-2.9.6-3.5-1.2-3.5-1.2-.5-1.2-1.2-1.5-1.2-1.5-1-.7.1-.7.1-.7 1.1.1 1.7 1.1 1.7 1.1 1 .1.9 1.8 2.9 1.3.1-.7.4-1.2.7-1.5-2.3-.3-4.6-1.2-4.6-5.1 0-1.1.4-2 1.1-2.7-.1-.3-.5-1.4.1-2.9 0 0 .9-.3 3 1.1a10 10 0 0 1 5.4 0c2.1-1.4 3-1.1 3-1.1.6 1.5.2 2.6.1 2.9.7.7 1.1 1.6 1.1 2.7 0 3.9-2.3 4.8-4.6 5.1.4.3.7.9.7 1.8V21c0 .3.2.6.7.5A10 10 0 0 0 12 2z'/></svg>",
+    "note": "Automating CI/CD workflows directly in GitHub"
+  },
+  {
+    "name": "PostgreSQL",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2c4.4 0 8 2.8 8 6.2 0 1.9-1.1 3.6-2.8 4.7V18c0 2.2-1.8 4-4 4h-2.4c-2.2 0-4-1.8-4-4v-5.1C5.1 11.8 4 10.1 4 8.2 4 4.8 7.6 2 12 2zm-3 9.2v6.6c0 1.1.9 2 2 2h2.4c1.1 0 2-.9 2-2v-6.6c-.9.3-2 .5-3.4.5s-2.5-.2-3.4-.5z'/></svg>",
+    "note": "Relational data modeling and SQL performance tuning"
+  },
+  {
+    "name": "DynamoDB",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M5 3h14v4H5V3zm0 6h14v4H5V9zm0 6h14v6H5v-6zm3 1v4h2v-4H8zm4 0v4h2v-4h-2z'/></svg>",
+    "note": "NoSQL design with partition keys and scaling patterns"
+  },
+  {
+    "name": "Kafka",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2a4 4 0 0 1 4 4c0 .4-.1.8-.2 1.1l2.1 1.2A4 4 0 0 1 22 12a4 4 0 0 1-4 4c-.4 0-.8-.1-1.1-.2l-1.2 2.1A4 4 0 0 1 12 22a4 4 0 0 1-4-4c0-.4.1-.8.2-1.1l-2.1-1.2A4 4 0 0 1 2 12a4 4 0 0 1 4-4c.4 0 .8.1 1.1.2l1.2-2.1A4 4 0 0 1 12 2zm0 6a4 4 0 1 0 0 8 4 4 0 0 0 0-8z'/></svg>",
+    "note": "Event-driven messaging and streaming integrations"
+  },
+  {
+    "name": "JWT",
+    "proficiency": "Advanced",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2a4 4 0 0 1 4 4v2h1a3 3 0 0 1 3 3v7a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4v-7a3 3 0 0 1 3-3h1V6a4 4 0 0 1 4-4zm2 6V6a2 2 0 1 0-4 0v2h4zm-2 5a2 2 0 0 0-1 3.732V18h2v-1.268A2 2 0 0 0 12 13z'/></svg>",
+    "note": "Token-based authentication for APIs"
+  },
+  {
+    "name": "OAuth2",
+    "proficiency": "Expert",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2 4 6v6c0 5 3.4 9.4 8 10 4.6-.6 8-5 8-10V6l-8-4zm0 6a3 3 0 0 1 3 3v1h1v6H8v-6h1v-1a3 3 0 0 1 3-3zm-1 4h2v-1a1 1 0 0 0-2 0v1z'/></svg>",
+    "note": "Secure delegated access for apps and integrations"
+  },
+  {
+    "name": "AWS IAM",
+    "proficiency": "Intermediate",
+    "icon": "<svg viewBox='0 0 24 24' fill='currentColor'><path d='M12 2a5 5 0 0 1 5 5v2h1a2 2 0 0 1 2 2v8a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3v-8a2 2 0 0 1 2-2h1V7a5 5 0 0 1 5-5zm3 7V7a3 3 0 1 0-6 0v2h6zm-3 4a2 2 0 0 0-1 3.732V18h2v-1.268A2 2 0 0 0 12 13z'/></svg>",
+    "note": "Identity, roles, and access policies in AWS"
+  }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "E-Commerce Platform",
+      "coverImage": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "role": "Lead Full Stack Developer",
+      "impact": [
+        "Increased conversion rates by 35% through UX optimization",
+        "Reduced page load times by 60% with React performance tuning",
+        "Processed $2M+ in transactions with 99.9% uptime"
+      ],
+      "tags": ["React", "Node.js", "PostgreSQL"],
+      "stack": ["TypeScript", "React", "Node.js", "PostgreSQL", "Stripe", "AWS"],
+      "liveUrl": "https://example.com",
+      "codeUrl": "https://github.com"
+    }
+  ],
+  "experience": [
+    {
+      "id": "1",
+      "company": "GM Financial",
+      "position": "AWS Java Developer",
+      "duration": "January 2024 – September 2025",
+      "location": "Fort Worth, TX",
+      "description": "Built secure, scalable cloud-native financial applications using Java, Spring Boot microservices, and AWS to support high-volume transactions.",
+      "achievements": [
+        "Increased financial transaction processing efficiency by 30% through a microservices-based Java and Spring Boot architecture.",
+        "Reduced unauthorized access incidents by 40% by implementing Spring Security, JWT authentication, and AWS IAM policies.",
+        "Decreased deployment time by 50% by automating CI/CD pipelines with Jenkins, Docker, and Kubernetes (EKS).",
+        "Delivered highly available, low-latency REST APIs for account management, loan processing, and fund transfers."
+      ],
+      "skills": ["Java", "Spring Boot", "AWS", "PostgreSQL", "Docker"]
+    },
+    {
+      "id": "2",
+      "company": "Technox Technologies",
+      "position": "AWS Java Developer",
+      "duration": "August 2019 – August 2022",
+      "location": "Coimbatore, IN",
+      "description": "Developed and scaled an e-commerce order management system using Java and Spring technologies, supporting high-volume transactions on AWS.",
+      "achievements": [
+        "Built an end-to-end order management platform handling products, orders, payments, and customers with stable performance at scale.",
+        "Improved application maintainability and request handling efficiency by transitioning from Servlets/JSP to Spring MVC architecture.",
+        "Reduced database query execution time by 30% by migrating from JDBC-based access to Hibernate ORM.",
+        "Lowered manual deployment effort by 45% by automating build and deployment workflows using Jenkins and Docker on AWS."
+      ],
+      "skills": ["Java", "AWS", "Servlets", "JavaScript", "Spring Core"]
+    },
+    {
+      "id": "3",
+      "company": "NeoXam",
+      "position": "AWS Java Developer",
+      "duration": "June 2018 – July 2019",
+      "location": "Chennai, IN",
+      "description": "Built and optimized a high-throughput banking transaction processing system using Java, Spring, and AWS for reliable financial operations.",
+      "achievements": [
+        "Designed a reliable banking transaction platform processing high-volume monthly transactions with strong data consistency.",
+        "Improved system throughput and reduced transaction latency by implementing multithreaded backend components in Java and Spring MVC.",
+        "Reduced transaction failure rates by 25% through Hibernate ORM optimization, inheritance mapping, and Oracle database tuning.",
+        "Increased release efficiency by 40% by streamlining CI/CD pipelines and AWS deployments using Jenkins and Docker."
+      ],
+      "skills": ["Java", "Spring Core", "Hibernate ORM", "AWS", "Oracle"]
+    }
+  ],
+  "certifications": [
+    {
+      "id": "1",
+      "title": "AWS Certified Solutions Architect – Associate",
+      "issuer": "AWS",
+      "issuerLogo": "cert1",
+      "date": "12-12-2024"
+    }
+  ],
+  "contact": {
+    "description": "I'm always excited to discuss new opportunities, interesting projects, or just chat about technology. Feel free to reach out!",
+    "email": "venkatraog1996@gmail.com",
+    "phone": "+1 4302950339",
+    "location": "Township, NJ",
+    "social": [
+      {
+        "platform": "LinkedIn",
+        "url": "http://www.linkedin.com/in/venkatarao-gonugunta"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/VenkatRG1887"
+      }
+    ]
+  }
+}
